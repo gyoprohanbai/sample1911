@@ -110,3 +110,5 @@ Route::post('/timeline', 'Auth\TimelineController@postTweet');    // <--- 追加
 
 Route::get('login','HomeController@index');
 Route::post('login','HomeController@login');
+
+//GIT テスト用更新データ
